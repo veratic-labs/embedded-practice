@@ -1,0 +1,5 @@
+simon 100
+zach 200
+micheal 300
+jacky 400
+ray 500
