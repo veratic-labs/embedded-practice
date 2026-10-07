@@ -79,3 +79,6 @@ Listings/
 
 # Backup / temporary files
 *.bak
+
+# VS Code
+.vscode/
